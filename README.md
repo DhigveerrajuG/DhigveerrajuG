@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🤖 Hi there, I'm Dhigveerraju G
-### Robotics & Autonomous Systems Engineering Student
+### Robotics & Artificial intelligence Engineering Student
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Robotics+%26+Autonomous+Systems+Student;Computer+Vision+%26+Edge+AI+(YOLOv8+%7C+OpenCV);Embedded+Firmware+%26+Motor+Controls+(C%2FC%2B%2B);Industrial+Automation+%26+Smart+Inspection;Smart+India+Hackathon+'26+Innovator" alt="Typing SVG" />
@@ -19,12 +19,11 @@
 
 ### ⚡ About Me
 
-I am a **Robotics and Autonomous Systems** student passionate about bridging the physical world with intelligent software. My work integrates **embedded microcontrollers, precision motor actuation, and edge computer vision** to build resilient autonomous industrial machinery and smart robotic systems.
+I am a **Robotics and Artificial Intelligence** student passionate about bridging the physical world with intelligent software. My work integrates **embedded microcontrollers, precision motor actuation, and edge computer vision** to build resilient autonomous industrial machinery and smart robotic systems.
 
 - 🔭 **Currently Building**: Industrial defect detection systems combining **YOLOv8** edge AI with custom dual-motor conveyor controllers.
 - 🎯 **Domain Focus**: Autonomous Inspection, Computer Vision, Embedded Robotics (C/C++), Sensor Telemetry & Closed-Loop Actuation.
 - 🏆 **Hackathons**: Innovator & developer for **Smart India Hackathon (SIH '26)** building high-reliability operations infrastructure.
-- 💬 **Ask me about**: YOLOv8 model training, Arduino & TETRIX PRIZM motor controllers, OpenCV contour analysis, and real-time sensor dashboards.
 - ⚡ **Fun Fact**: I believe true robotics begins when your code directly controls torque, speed, and real-world inertia!
 
 ---
@@ -35,23 +34,17 @@ I am a **Robotics and Autonomous Systems** student passionate about bridging the
 
 #### 🤖 Robotics & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7000?style=for-the-badge&logo=platformio&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Motor Controls](https://img.shields.io/badge/PWM%20%7C%20H--Bridge-333333?style=for-the-badge&logo=circuitverse&logoColor=00D2FF)
-![TETRIX PRIZM](https://img.shields.io/badge/TETRIX%20PRIZM-Robotics-red?style=for-the-badge)
+
 
 #### 👁️ Computer Vision & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Edge%20AI-Deep%20Learning-orange?style=for-the-badge)
+
 
 #### 🌐 Web, Telemetry & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
