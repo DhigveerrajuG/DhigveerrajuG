@@ -1,10 +1,9 @@
 <div align="center">
 
 # 🤖 Hi there, I'm Dhigveerraju G
-### Robotics & Artificial Intelligence Engineering Student
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Robotics+%26+Autonomous+Systems+Student;Industrial+Automation+%26+Smart+Inspection;Smart+India+Hackathon+'26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Robotics+%26+Artificial+Intelligence+Student;Industrial+Automation+%26+Smart+Inspection;Smart+India+Hackathon+'26+Innovator" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +18,7 @@
 
 ### ⚡ About Me
 
-I am a **Robotics and Autonomous Systems** student passionate about bridging the physical world with intelligent software. My work integrates **embedded microcontrollers, precision motor actuation, and edge computer vision** to build resilient autonomous industrial machinery and smart robotic systems.
+I am a **Robotics and Artificial Intelligence** student passionate about bridging the physical world with intelligent software. My work integrates **embedded microcontrollers, precision motor actuation, and edge computer vision** to build resilient autonomous industrial machinery and smart robotic systems.
 
 - 🔭 **Currently Building**: Industrial defect detection systems combining **YOLOv8** edge AI with custom dual-motor conveyor controllers.
 - 🎯 **Domain Focus**: Autonomous Inspection, Computer Vision, Embedded Robotics (C/C++), Sensor Telemetry & Closed-Loop Actuation.
