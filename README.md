@@ -72,6 +72,7 @@ I am a **Robotics and Artificial Intelligence** student passionate about bridgin
       </p>
     </td>
     <td width="50%" valign="top">
+
       <h3>🏆 SIH Real-Time Support Portal</h3>
       <p><b>Smart India Hackathon (SIH '26) Operations Engine</b></p>
       <ul>
@@ -86,6 +87,7 @@ I am a **Robotics and Artificial Intelligence** student passionate about bridgin
       </p>
     </td>
     <td width="50%" valign="top">
+      
 ---
 
 ### 📊 GitHub Activity & Metrics
