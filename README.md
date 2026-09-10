@@ -4,7 +4,7 @@
 ### Robotics & Artificial Intelligence Engineering Student
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Robotics+%26+Artificial+Intelligence+Student;Industrial+Automation+%26+Smart+Inspection;Smart+India+Hackathon+'26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Robotics+%26+Autonomous+Systems+Student;Industrial+Automation+%26+Smart+Inspection;Smart+India+Hackathon+'26+Innovator" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,11 +19,12 @@
 
 ### ⚡ About Me
 
-I am a **Robotics and Artificial Intelligence** student passionate about bridging the physical world with intelligent software. My work integrates **embedded microcontrollers, precision motor actuation** to build resilient autonomous industrial machinery and smart robotic systems.
+I am a **Robotics and Autonomous Systems** student passionate about bridging the physical world with intelligent software. My work integrates **embedded microcontrollers, precision motor actuation, and edge computer vision** to build resilient autonomous industrial machinery and smart robotic systems.
 
 - 🔭 **Currently Building**: Industrial defect detection systems combining **YOLOv8** edge AI with custom dual-motor conveyor controllers.
 - 🎯 **Domain Focus**: Autonomous Inspection, Computer Vision, Embedded Robotics (C/C++), Sensor Telemetry & Closed-Loop Actuation.
 - 🏆 **Hackathons**: Innovator & developer for **Smart India Hackathon (SIH '26)** building high-reliability operations infrastructure.
+- 💬 **Ask me about**: YOLOv8 model training, Arduino & TETRIX PRIZM motor controllers, OpenCV contour analysis, and real-time sensor dashboards.
 - ⚡ **Fun Fact**: I believe true robotics begins when your code directly controls torque, speed, and real-world inertia!
 
 ---
@@ -37,11 +38,9 @@ I am a **Robotics and Artificial Intelligence** student passionate about bridgin
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Motor Controls](https://img.shields.io/badge/PWM%20%7C%20H--Bridge-333333?style=for-the-badge&logo=circuitverse&logoColor=00D2FF)
 
-
 #### 👁️ Computer Vision & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-
 
 #### 🌐 Web, Telemetry & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,12 +51,6 @@ I am a **Robotics and Artificial Intelligence** student passionate about bridgin
 </div>
 
 ---
-
-
-
-
-
-
 
 ### 🚀 Featured Engineering Projects
 
@@ -78,6 +71,20 @@ I am a **Robotics and Artificial Intelligence** student passionate about bridgin
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>⚡ Synchronized Dual-Motor Actuation</h3>
+      <p><b>Hardware Firmware & Motion Profiles</b></p>
+      <ul>
+        <li>Synchronized dual DC motor drive with direction synchronization for physical conveyor rollers.</li>
+        <li>Custom <b>PWM soft-start acceleration ramping</b> algorithm to eliminate belt slippage and motor back-EMF spikes.</li>
+        <li>Tested with microcontrollers, H-bridge motor drivers (L298N), and optical speed feedback.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Hardware-Arduino_%7C_C%2B%2B_%7C_PWM-blue?style=flat-square" alt="Hardware" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🏆 SIH Real-Time Support Portal</h3>
       <p><b>Smart India Hackathon (SIH '26) Operations Engine</b></p>
       <ul>
@@ -92,7 +99,20 @@ I am a **Robotics and Artificial Intelligence** student passionate about bridgin
       </p>
     </td>
     <td width="50%" valign="top">
-      
+      <h3>⚙️ Robotics Kinematics & Actuation Lab</h3>
+      <p><b>Robotic Drives, Controllers & Transmission</b></p>
+      <ul>
+        <li>Firmware experiments using the <b>TETRIX PRIZM</b> robotics controller and multi-axis DC motor encoders.</li>
+        <li>Mechanical drive ratio calculations, torque/RPM matching, and robotic powertrain sizing.</li>
+        <li>PlatformIO and Arduino IDE firmware development for robotics competition systems.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Robotics-TETRIX_PRIZM_%7C_Firmware-green?style=flat-square" alt="Robotics" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 📊 GitHub Activity & Metrics
