@@ -147,5 +147,5 @@ I am always eager to collaborate on **robotics research, computer vision project
 <br/>
 
 <div align="center">
-  <sub>Designed with passion for Robotics & Autonomous Systems 🤖 • © 2026 Dhigveerraju G</sub>
+  <sub>Designed with passion for Robotics & Artificial Intelligence 🤖 • © 2026 Dhigveerraju G</sub>
 </div>
