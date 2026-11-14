@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bodyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="flameGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    .drone-body {
+      animation: hoverFloat 3.2s ease-in-out infinite;
+      transform-origin: center center;
+    }
+    .shadow {
+      animation: shadowPulse 3.2s ease-in-out infinite;
+      transform-origin: center center;
+    }
+    .eye {
+      animation: eyeBlink 4s ease-in-out infinite;
+      transform-origin: center center;
+    }
+    .thruster-flame {
+      animation: flamePulse 1.2s ease-in-out infinite alternate;
+      transform-origin: top center;
+    }
+    .beacon {
+      animation: beaconFlash 2s ease-in-out infinite;
+    }
+
+    @keyframes hoverFloat {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-14px); }
+    }
+    @keyframes shadowPulse {
+      0%, 100% { transform: scale(1); opacity: 0.35; }
+      50% { transform: scale(0.75); opacity: 0.15; }
+    }
+    @keyframes eyeBlink {
+      0%, 92%, 100% { transform: scaleY(1); }
+      96% { transform: scaleY(0.12); }
+    }
+    @keyframes flamePulse {
+      0% { transform: scaleY(0.9) scaleX(0.95); opacity: 0.75; }
+      100% { transform: scaleY(1.3) scaleX(1.05); opacity: 1; filter: drop-shadow(0 0 6px #38bdf8); }
+    }
+    @keyframes beaconFlash {
+      0%, 100% { opacity: 0.45; }
+      50% { opacity: 1; filter: drop-shadow(0 0 8px #38bdf8); }
+    }
+  </style>
+
+  <!-- Ground Shadow -->
+  <ellipse class="shadow" cx="100" cy="204" rx="46" ry="7" fill="#64748b"/>
+
+  <!-- Hovering Drone Assemblage -->
+  <g class="drone-body">
+    <!-- Thruster Exhaust Flames -->
+    <path class="thruster-flame" d="M 72 166 Q 78 200 78 205 Q 84 200 84 166 Z" fill="url(#flameGrad)"/>
+    <path class="thruster-flame" d="M 116 166 Q 122 200 122 205 Q 128 200 128 166 Z" fill="url(#flameGrad)"/>
+
+    <!-- Antenna Mast & Beacon -->
+    <line x1="100" y1="42" x2="100" y2="16" stroke="#2563eb" stroke-width="4.5" stroke-linecap="round"/>
+    <circle class="beacon" cx="100" cy="14" r="8" fill="#38bdf8" filter="url(#glow)"/>
+    <circle cx="100" cy="14" r="4" fill="#ffffff"/>
+
+    <!-- Stabilizer Aero Fins -->
+    <path d="M 38 108 C 20 100, 14 124, 38 136 Z" fill="url(#primaryGrad)"/>
+    <path d="M 162 108 C 180 100, 186 124, 162 136 Z" fill="url(#primaryGrad)"/>
+
+    <!-- Main Chassis / Helmet -->
+    <rect x="42" y="38" width="116" height="120" rx="54" fill="url(#bodyGrad)" stroke="#2563eb" stroke-width="4"/>
+    <path d="M 58 64 Q 100 48 142 64" stroke="#cbd5e1" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+    <!-- Visor Screen -->
+    <rect x="58" y="70" width="84" height="48" rx="20" fill="#0f172a" stroke="#1e293b" stroke-width="2"/>
+
+    <!-- Animated Visor LED Eyes -->
+    <ellipse class="eye" cx="82" cy="94" rx="8" ry="9" fill="#38bdf8" filter="url(#glow)"/>
+    <ellipse class="eye" cx="82" cy="94" rx="3.5" ry="4" fill="#ffffff"/>
+
+    <ellipse class="eye" cx="118" cy="94" rx="8" ry="9" fill="#38bdf8" filter="url(#glow)"/>
+    <ellipse class="eye" cx="118" cy="94" rx="3.5" ry="4" fill="#ffffff"/>
+
+    <!-- Arc Reactor Core -->
+    <circle cx="100" cy="136" r="11" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/>
+    <circle cx="100" cy="136" r="6" fill="#38bdf8" filter="url(#glow)"/>
+    <circle cx="100" cy="136" r="2.5" fill="#ffffff"/>
+
+    <!-- Dual Nozzle Thruster Bases -->
+    <rect x="70" y="156" width="16" height="12" rx="4" fill="#334155" stroke="#1e293b" stroke-width="1.5"/>
+    <rect x="114" y="156" width="16" height="12" rx="4" fill="#334155" stroke="#1e293b" stroke-width="1.5"/>
+  </g>
+</svg>
