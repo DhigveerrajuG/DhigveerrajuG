@@ -1,202 +1,178 @@
 <div align="center">
 
-<table border="0" width="100%">
-  <tr>
-    <td width="26%" align="center" valign="middle">
-      <img src="./assets/roboguide-drone.svg" width="165" alt="RoboGuide Drone Companion" />
-    </td>
-    <td width="74%" valign="middle" align="left">
-      <h1>👋 Hi, I'm Dhigveerraju G</h1>
-      <p><b>🎓 Robotics &amp; Artificial Intelligence Student • Hardware &amp; Computer Vision Explorer</b></p>
-      <p>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=2563EB&vCenter=true&width=550&lines=Robotics+%26+AI+Student+learning+by+building;Tinkering+with+Arduino%2C+C%2B%2B+%26+DC+Motors;Training+YOLOv8+models+for+edge+detection;Smart+India+Hackathon+'26+Innovator;Always+curious%2C+always+experimenting!" alt="Typing SVG Banner" />
-        </a>
-      </p>
-      <p>
-        <a href="https://dhigveerrajug.github.io/Vishwakarma/">
-          <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-Vishwakarma-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
-        </a>
-        <a href="https://in.linkedin.com/in/dhigveerraju-g-69737036b">
-          <img src="https://img.shields.io/badge/LinkedIn-Dhigveerraju%20G-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="mailto:dhigveerraju@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Get_in_Touch-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+# 🤖 CYBERNETIC SYSTEM ARCHITECTURE // DHIGVEERRAJU G
+### Robotics &amp; Artificial Intelligence Student • Physical Intelligence Explorer
+
+<p>
+  <a href="#-00-antenna--uplink--communications--connectivity"><b>[ 📡 Antenna ]</b></a> •
+  <a href="#-01-eyes--sensors--computer-vision--perception"><b>[ 👁️ Eyes ]</b></a> •
+  <a href="#-02-brain--cpu--logic--engineering-mindset"><b>[ 🧠 Brain ]</b></a> •
+  <a href="#-03-hands--end-effectors--tools--prototyping"><b>[ 🦾 Hands ]</b></a> •
+  <a href="#-04-torso--power-core--power-distribution--infrastructure"><b>[ ⚡ Torso ]</b></a> •
+  <a href="#-05-legs--actuators--motion-control--kinematics"><b>[ 🦿 Legs ]</b></a> •
+  <a href="#-06-system-telemetry--activity-diagnostics"><b>[ 📊 Telemetry ]</b></a>
+</p>
+
+<p align="center">
+  <img src="./assets/robot-schematic.svg" width="100%" alt="Robot Anatomical Architecture Blueprint" />
+</p>
+
+<p>
+  <a href="https://dhigveerrajug.github.io/Vishwakarma/">
+    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-Vishwakarma-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="https://in.linkedin.com/in/dhigveerraju-g-69737036b">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhigveerraju%20G-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/DhigveerrajuG">
+    <img src="https://img.shields.io/badge/GitHub-DhigveerrajuG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:dhigveerraju@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Transmit_Signal-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 💡 About My Journey
+### 📡 [00] ANTENNA &amp; UPLINK // Communications &amp; Connectivity
 
-> *"I don't claim to be an expert in everything. I'm a passionate student who believes the best way to understand robotics and AI is by getting my hands dirty—wiring microcontrollers, tuning motor PWM, training vision models, and testing them on physical prototypes."*
+```
+[COMMUNICATION BUS] ──> Status: ONLINE ──> Location: India 🇮🇳 ──> Open to Student Internships & Mentorship
+```
 
-- 🎓 **Current Status**: Undergraduate student in Robotics & Artificial Intelligence in India 🇮🇳.
-- 🔬 **What Excites Me**: The intersection where digital code directly turns into mechanical torque, camera vision, and physical motion.
-- 🛠️ **How I Learn**: Through trial, error, datasheets, breadboards, and hackathons.
-- 🚀 **Interactive Portfolio**: Explore **[Vishwakarma](https://dhigveerrajug.github.io/Vishwakarma/)** to see my live interactive project showcase, 30s tour, and hardware architectures.
-- 🎯 **What I'm Looking For**: Student internships, research opportunities, open-source robotics collaborations, and guidance from experienced mentors!
-
----
-
-### 🛠️ What I've Built So Far *(Click to Expand)*
-
-<details open>
-  <summary><b>🛡️ Conveyor Sentinel AI — Anomaly Detection on Moving Lines</b></summary>
-  <br/>
-  <blockquote>
-    <b>The Goal:</b> Build an edge vision prototype capable of spotting belt tears, punctures, and cracks before they cause expensive machine breakdowns.<br/>
-    <b>What I Did:</b> Fine-tuned a lightweight <b>YOLOv8</b> model on tear and crack patterns, and paired it with <b>OpenCV</b> contour tracking to help reduce motion blur when objects move fast.<br/>
-    <b>What I Learned:</b> Running inference is only half the battle—latency matters! If a defect is detected, you need an active safety routine fast enough to pulse an industrial cutoff relay.
-  </blockquote>
-  <p>
-    <a href="https://github.com/DhigveerrajuG/Autonomous-Industrial-Conveyor-Belt-Inspection-System">
-      <img src="https://img.shields.io/badge/GitHub-View_Project_Repository-2563eb?style=flat-square&logo=github&logoColor=white" alt="Conveyor Sentinel Repo" />
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Synchronized Dual-Motor Actuation &amp; PWM Ramping</b></summary>
-  <br/>
-  <blockquote>
-    <b>The Goal:</b> Keep two conveyor drive rollers synchronized without belt slip or mechanical jerk.<br/>
-    <b>What I Did:</b> Wrote custom C++ firmware on Arduino using Timer1 phase-correct PWM. Instead of sending instant 100% power, I implemented gradual mathematical ramping to accelerate the motors smoothly.<br/>
-    <b>What I Learned:</b> Direct starts cause high inrush current spikes and mechanical backlash. Gradual PWM ramping protects motor drivers (L298N) and eliminates belt inertia slip.
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>🏆 Smart India Hackathon (SIH '26) Operations Engine</b></summary>
-  <br/>
-  <blockquote>
-    <b>The Goal:</b> Build a reliable, fast grievance and logistics tracking portal for hackathon organizers and teams.<br/>
-    <b>What I Did:</b> Developed a responsive operations dashboard with digital ticket generation and transaction-safe logging.<br/>
-    <b>What I Learned:</b> How to work under extreme hackathon deadlines, prioritize features that users actually need, and write clean, resilient front-end code.
-  </blockquote>
-  <p>
-    <a href="https://github.com/DhigveerrajuG/GBlr26sIh">
-      <img src="https://img.shields.io/badge/GitHub-View_SIH_Repository-2563eb?style=flat-square&logo=github&logoColor=white" alt="SIH Repo" />
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>⚙️ Robotics Kinematics &amp; Encoder Experiments</b></summary>
-  <br/>
-  <blockquote>
-    <b>The Goal:</b> Explore closed-loop motor positioning and velocity matching.<br/>
-    <b>What I Did:</b> Programmed with the <b>TETRIX PRIZM</b> controller and optical quadrature encoders, experimenting with simple proportional trimming to keep two shafts moving at matched speeds under variable loads.<br/>
-    <b>What I Learned:</b> Open-loop control drifts quickly under physical load; real-time encoder feedback is essential for reliable robotics movement.
-  </blockquote>
-</details>
+* **Live Web Signal**: Explore my interactive web showcase, 30s tour, and architecture modals at **[dhigveerrajug.github.io/Vishwakarma](https://dhigveerrajug.github.io/Vishwakarma/)**.
+* **Professional Transceiver**: Connect with me on **[LinkedIn](https://in.linkedin.com/in/dhigveerraju-g-69737036b)** for robotics discussions and research collaborations.
+* **Open Source Network**: Follow my code commits and prototype releases here on **[GitHub](https://github.com/DhigveerrajuG)**.
 
 ---
 
-### 📚 My Current Learning Quest &amp; Roadmap
+### 👁️ [01] EYES &amp; SENSORS // Computer Vision &amp; Perception
+
+```
+[OPTICAL SENSOR FEED] ──> Target: Surface Anomalies ──> Model: YOLOv8 ──> FPS: 42.4 ──> Relay: <22ms
+```
+
+The robot's visual perception subsystem focuses on **edge computer vision and optical inspection**:
+
+* **Neural Vision Model**: Ultralytics **YOLOv8** fine-tuned on industrial surface defects (longitudinal tears, deep punctures, edge fraying, and foreign debris).
+* **Optical Processing**: **OpenCV** morphological contour tracking and adaptive thresholding for high-speed motion blur mitigation.
+* **Flagship Project — [Conveyor Sentinel AI](https://github.com/DhigveerrajuG/Autonomous-Industrial-Conveyor-Belt-Inspection-System)**:
+  * Real-time anomaly classification on moving conveyor belts at **42+ FPS**.
+  * 5-point automated safety interlock triggering an active-low industrial cutoff relay in **&lt;22ms**.
+  * Dynamic bounding box reticle overlay with live confidence telemetry.
+
+---
+
+### 🧠 [02] BRAIN &amp; CPU // Logic &amp; Engineering Mindset
+
+```
+[CENTRAL PROCESSING UNIT] ──> Core: Dhigveerraju G ──> Role: Robotics & AI Student ──> Mode: Learning by Building
+```
+
+The cognitive logic unit behind the machinery:
+
+* **Student Identity**: Undergraduate Robotics &amp; Artificial Intelligence student in India 🇮🇳.
+* **Engineering Philosophy**: *I don't claim to be an expert in everything. I'm a student who learns by getting hands-on—writing code, wiring microcontrollers, tuning PWM motor ramping, and testing physical hardware.*
+* **Core Logic Languages**: `C++`, `C`, `Python`, `Algorithms & Data Structures`.
+* **Current Learning Quest (Roadmap)**:
+  - [x] Arduino hardware register timers &amp; PWM duty cycle mathematics
+  - [x] YOLOv8 custom dataset training &amp; OpenCV image processing
+  - [ ] **ROS / ROS2** (Robot Operating System) node communication &amp; topics
+  - [ ] Inverse kinematics for multi-axis robotic arms
+  - [ ] Edge tensor deployment on **NVIDIA Jetson** &amp; **TensorRT**
+
+---
+
+### 🦾 [03] HANDS &amp; END-EFFECTORS // Tools &amp; Prototyping
+
+```
+[ACTUATION INTERFACE] ──> Prototyping: Breadboards & Arduino ──> Tooling: VS Code & Git ──> Event: SIH '26
+```
+
+The manipulation tools used to physically assemble, solder, and build prototypes:
+
+* **Hardware Prototyping**: Arduino UNO / Mega, breadboards, jumper wiring, optocouplers, L298N drivers, optical tachometers, and DC gear motors.
+* **Software Tooling**: `VS Code`, `Arduino IDE`, `Git / GitHub`, `Linux CLI`, `Google Apps Script`.
+* **Rapid Build Project — [Smart India Hackathon (SIH '26) Operations Engine](https://github.com/DhigveerrajuG/GBlr26sIh)**:
+  * Production incident and logistics tracking portal engineered under intense hackathon deadlines.
+  * Fast response, digital ticket generation, and reliable data logging.
+
+---
+
+### ⚡ [04] TORSO &amp; POWER CORE // Power Distribution &amp; Infrastructure
+
+```
+[POWER REGULATION] ──> Voltage Rail: 12V-24V DC ──> Inrush Protection: 56% Attenuation ──> Web Engine: Java 26 / Node.js
+```
+
+The chassis housing energy management, inductive protection, and web infrastructure:
+
+* **Hardware Power Rail**:
+  * Unregulated `12V - 24V DC` dual motor bus.
+  * 1N5819 Schottky fast-recovery flyback diodes (back-EMF snubber array) protecting against inductive voltage spikes.
+  * PC817 optocouplers for complete galvanic logic isolation between microcontrollers and motor rails.
+* **Software Backbone — [Vishwakarma Portfolio Engine](https://github.com/DhigveerrajuG/Vishwakarma)**:
+  * Modular TypeScript frontend with an embedded stationary RoboGuide drone companion.
+  * Dual-ready backend: **Java 26 Virtual Threads** HTTP server + **Node.js** API for contact requests and resume authorization.
+
+---
+
+### 🦿 [05] LEGS &amp; ACTUATORS // Motion Control &amp; Kinematics
+
+```
+[LOCOMOTION SUBSYSTEM] ──> Motors: Dual DC Drive ──> PWM: 31.37 kHz Ultrasonic ──> Feedback: Optical Encoders
+```
+
+The physical mobility, mechanical drive, and closed-loop motor control subsystem:
+
+* **Synchronized Dual-Motor Actuation**:
+  * Custom **mathematical PWM soft-start acceleration ramping** written in C++ on Arduino Timer1.
+  * Eliminates mechanical belt inertia slip and protects gearboxes.
+  * Attenuates inrush current surge by **56%** (reducing unramped 3.2A spikes down to 1.4A).
+* **Robotics Kinematics Lab**:
+  * **TETRIX PRIZM** robotics controller with quadrature optical encoders (500 CPR, 2000 edges/rev).
+  * Real-time proportional speed trimming keeping dual shafts synchronized within **±2 encoder ticks**.
+
+---
+
+### 📊 [06] SYSTEM TELEMETRY // Activity &amp; Diagnostics
+
+```
+[DIAGNOSTICS DATA] ──> Telemetry: GitHub Live ──> Theme: Transparent / Electric Blue ──> Status: Active
+```
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>✅ What I Feel Comfortable With</h4>
-      <ul>
-        <li>Writing basic firmware in <b>C / C++</b> for Arduino.</li>
-        <li>Motor control: PWM duty cycles, H-Bridges, relays.</li>
-        <li>Python scripting for data, sensors, and basic backend.</li>
-        <li>Training &amp; testing <b>YOLOv8</b> detection models.</li>
-        <li>Image processing fundamentals using <b>OpenCV</b>.</li>
-        <li>Modern HTML5, CSS3 &amp; JavaScript for web UI.</li>
-        <li>Version control with Git &amp; GitHub workflows.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 What I'm Learning &amp; Exploring Next</h4>
-      <ul>
-        <li><b>ROS / ROS2</b> (Robot Operating System) node communication.</li>
-        <li>Inverse kinematics for multi-joint robotic arms.</li>
-        <li>Deploying models on <b>NVIDIA Jetson</b> and <b>Raspberry Pi</b>.</li>
-        <li>PID tuning for precision closed-loop control.</li>
-        <li>Sensor fusion (combining IMU + camera + encoder telemetry).</li>
-        <li>Industrial automation standards &amp; PLC basics.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🧰 Tools &amp; Hardware I Tinker With
-
-<div align="center">
-
-| Area | Tools &amp; Technologies I Actually Use |
-| :--- | :--- |
-| **Microcontrollers &amp; Hardware** | Arduino UNO / Mega, TETRIX PRIZM, L298N Dual H-Bridge, DC Motors, Relays, Optical Tachometers |
-| **Languages** | Python, C, C++, JavaScript |
-| **Vision &amp; AI Frameworks** | Ultralytics YOLOv8, OpenCV |
-| **Software &amp; Web** | HTML5, CSS3, JavaScript, Node.js (Basic APIs), Git, GitHub |
-| **Dev Environment** | VS Code, Arduino IDE, Linux terminal basics |
-
-</div>
-
----
-
-### 🤖 Ask RoboGuide *(Interactive Student FAQ)*
-
-<details open>
-  <summary><b>💬 "What kind of projects is Dhigveer most excited about?"</b></summary>
-  <blockquote>
-    🤖 <b>RoboGuide:</b> "Dhigveer loves projects that involve real-world action—smart inspection machines, automated robotic rovers, and sensor telemetry systems. If code causes an LED to blink, a motor to turn, or a camera to classify an object, he's hooked!"
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>🤝 "Is he open to student internships or collaborative hackathons?"</b></summary>
-  <blockquote>
-    🤖 <b>RoboGuide:</b> "Absolutely! He is actively seeking <b>summer internships, junior hardware/software roles, and research projects</b> where he can learn from experienced engineers and contribute enthusiastically."
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>📖 "What is his mindset when an experiment or circuit fails?"</b></summary>
-  <blockquote>
-    🤖 <b>RoboGuide:</b> "In robotics, things rarely work on the first try—wires loosen, components heat up, and code throws errors. Dhigveer treats failures as datasheets in disguise: probe with a multimeter, check serial logs, isolate variables, and learn why it failed."
-  </blockquote>
-</details>
-
----
-
-### 📈 Engineering Activity &amp; Project Telemetry
-
-<table border="0" width="100%">
-  <tr>
-    <th align="left">Repository</th>
-    <th align="left">Domain Track</th>
-    <th align="left">Key Technologies</th>
-    <th align="center">Status</th>
+    <th align="left">Subsystem / Repository</th>
+    <th align="left">Robot Component</th>
+    <th align="left">Core Stack</th>
+    <th align="center">Operational Status</th>
   </tr>
   <tr>
     <td><b><a href="https://github.com/DhigveerrajuG/Autonomous-Industrial-Conveyor-Belt-Inspection-System">Conveyor Sentinel AI</a></b></td>
-    <td>Industrial Computer Vision</td>
-    <td><code>YOLOv8</code> • <code>OpenCV</code> • <code>Python</code></td>
+    <td>👁️ Eyes &amp; Vision Stack</td>
+    <td><code>YOLOv8</code> • <code>OpenCV</code></td>
     <td align="center"><img src="https://img.shields.io/badge/Status-Active_Prototype-2563eb?style=flat-square" alt="Active Prototype" /></td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/DhigveerrajuG/Vishwakarma">Vishwakarma</a></b></td>
-    <td>Interactive Web Portfolio</td>
-    <td><code>TypeScript</code> • <code>Dual Backend</code> • <code>HTML5</code></td>
+    <td><b><a href="https://github.com/DhigveerrajuG/Vishwakarma">Vishwakarma Portfolio</a></b></td>
+    <td>⚡ Torso &amp; Power Core</td>
+    <td><code>TypeScript</code> • <code>Dual Backend</code></td>
     <td align="center"><img src="https://img.shields.io/badge/Status-Production_v1.0.0-10b981?style=flat-square" alt="Production" /></td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/DhigveerrajuG/GBlr26sIh">GBlr26sIh</a></b></td>
-    <td>Operations &amp; Logistics Desk</td>
-    <td><code>SIH '26</code> • <code>Web UI</code> • <code>Google Apps Script</code></td>
+    <td><b><a href="https://github.com/DhigveerrajuG/GBlr26sIh">SIH '26 Operations Portal</a></b></td>
+    <td>🦾 Hands &amp; Rapid Tooling</td>
+    <td><code>Web UI</code> • <code>Google Apps Script</code></td>
     <td align="center"><img src="https://img.shields.io/badge/Status-Completed-gray?style=flat-square" alt="Completed" /></td>
+  </tr>
+  <tr>
+    <td><b>Synchronized Motor PWM Drive</b></td>
+    <td>🦿 Legs &amp; Actuators</td>
+    <td><code>Arduino C++</code> • <code>Timer1 PWM</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/Status-Hardware_Testing-blueviolet?style=flat-square" alt="Hardware Testing" /></td>
   </tr>
 </table>
 
@@ -216,16 +192,6 @@
 
 ---
 
-### 📬 Let's Connect!
-
-I would love to connect with **fellow students, robotics researchers, and experienced engineers**! Whether you have feedback on my projects, advice for a student, or an internship opportunity, feel free to reach out.
-
-- 🌐 **Interactive Portfolio**: [dhigveerrajug.github.io/Vishwakarma](https://dhigveerrajug.github.io/Vishwakarma/)
-- 💼 **LinkedIn**: [Dhigveerraju G](https://in.linkedin.com/in/dhigveerraju-g-69737036b)
-- 🐙 **GitHub**: [@DhigveerrajuG](https://github.com/DhigveerrajuG)
-
-<br/>
-
 <div align="center">
-  <sub>Constantly learning, constantly building 🤖 • Dhigveerraju G</sub>
+  <sub>Anatomical Cyber-Physical Blueprint 🤖 • Dhigveerraju G • Robotics &amp; Artificial Intelligence Student</sub>
 </div>
