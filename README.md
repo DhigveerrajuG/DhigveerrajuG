@@ -39,18 +39,8 @@
 - 🎓 **Current Status**: Undergraduate student in Robotics & Artificial Intelligence in India 🇮🇳.
 - 🔬 **What Excites Me**: The intersection where digital code directly turns into mechanical torque, camera vision, and physical motion.
 - 🛠️ **How I Learn**: Through trial, error, datasheets, breadboards, and hackathons.
-- 🚀 **Interactive Showcase**: I built **[Vishwakarma](https://dhigveerrajug.github.io/Vishwakarma/)**, an interactive web portfolio with a simulated companion drone to showcase my hardware experiments.
+- 🚀 **Interactive Portfolio**: Explore **[Vishwakarma](https://dhigveerrajug.github.io/Vishwakarma/)** to see my live interactive project showcase, 30s tour, and hardware architectures.
 - 🎯 **What I'm Looking For**: Student internships, research opportunities, open-source robotics collaborations, and guidance from experienced mentors!
-
----
-
-### 📡 Inside My Prototyping Lab
-
-<p align="center">
-  <img src="./assets/telemetry-scanner.svg" width="100%" alt="Inspection Telemetry Scanner" />
-  <br/>
-  <sub><i>Simulated telemetry console inspired by my Conveyor Sentinel AI vision inspection &amp; motor ramping experiments.</i></sub>
-</p>
 
 ---
 
@@ -181,16 +171,44 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📈 Engineering Activity &amp; Project Telemetry
+
+<table border="0" width="100%">
+  <tr>
+    <th align="left">Repository</th>
+    <th align="left">Domain Track</th>
+    <th align="left">Key Technologies</th>
+    <th align="center">Status</th>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/DhigveerrajuG/Autonomous-Industrial-Conveyor-Belt-Inspection-System">Conveyor Sentinel AI</a></b></td>
+    <td>Industrial Computer Vision</td>
+    <td><code>YOLOv8</code> • <code>OpenCV</code> • <code>Python</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/Status-Active_Prototype-2563eb?style=flat-square" alt="Active Prototype" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/DhigveerrajuG/Vishwakarma">Vishwakarma</a></b></td>
+    <td>Interactive Web Portfolio</td>
+    <td><code>TypeScript</code> • <code>Dual Backend</code> • <code>HTML5</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/Status-Production_v1.0.0-10b981?style=flat-square" alt="Production" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/DhigveerrajuG/GBlr26sIh">GBlr26sIh</a></b></td>
+    <td>Operations &amp; Logistics Desk</td>
+    <td><code>SIH '26</code> • <code>Web UI</code> • <code>Google Apps Script</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/Status-Completed-gray?style=flat-square" alt="Completed" /></td>
+  </tr>
+</table>
 
 <div align="center">
+  <br/>
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.shion.dev/api?username=DhigveerrajuG&show_icons=true&theme=tokyonight&hide_border=true&title_color=2563EB&icon_color=2563EB" height="175" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=DhigveerrajuG&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=38bdf8" height="165" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=DhigveerrajuG&theme=tokyonight&hide_border=true&ring=2563EB&fire=2563EB&currStreakNum=2563EB" height="175" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=DhigveerrajuG&theme=transparent&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&stroke=2563EB&sideLabels=38bdf8&dates=64748b" height="165" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
