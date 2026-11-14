@@ -3,55 +3,33 @@
 # 🤖 Hi there, I'm Dhigveerraju G
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Robotics+%26+Artificial+Intelligence+Student;Industrial+Automation+%26+Smart+Inspection;Smart+India+Hackathon+'26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Robotics+%26+Artificial+Intelligence+Engineer;Physical+Intelligence+%26+Edge+YOLOv8;Embedded+Firmware+%26+Closed-Loop+Actuation;Smart+India+Hackathon+'26+Innovator" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dhigveerraju-g-69737036b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhigveerrajuG)
-[![Profile Views](https://komarev.com/ghpvc/?username=DhigveerrajuG&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/DhigveerrajuG)
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-Vishwakarma-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhigveerrajug.github.io/Vishwakarma/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhigveerraju%20G-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dhigveerraju-g-69737036b)
+[![GitHub](https://img.shields.io/badge/GitHub-DhigveerrajuG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhigveerrajuG)
+[![Profile Views](https://komarev.com/ghpvc/?username=DhigveerrajuG&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/DhigveerrajuG)
 
 </div>
 
 ---
 
-### ⚡ About Me
+### ⚡ Physical Intelligence & Robotics Engineering
 
-I am a **Robotics and Artificial Intelligence** student passionate about bridging the physical world with intelligent software. My work integrates **embedded microcontrollers, precision motor actuation, and edge computer vision** to build resilient autonomous industrial machinery and smart robotic systems.
+I design and build intelligent machines where algorithms directly govern mechanical torque, edge computer vision, and physical actuation. My work bridges **embedded microcontroller firmware, real-time sensor telemetry, and edge deep learning** into dependable cyber-physical systems.
 
-- 🔭 **Currently Building**: Industrial defect detection systems combining **YOLOv8** edge AI with custom dual-motor conveyor controllers.
-- 🎯 **Domain Focus**: Autonomous Inspection, Computer Vision, Embedded Robotics (C/C++), Sensor Telemetry & Closed-Loop Actuation.
-- 🏆 **Hackathons**: Innovator & developer for **Smart India Hackathon (SIH '26)** building high-reliability operations infrastructure.
-- 💬 **Ask me about**: YOLOv8 model training, Arduino & TETRIX PRIZM motor controllers, OpenCV contour analysis, and real-time sensor dashboards.
-- ⚡ **Fun Fact**: I believe true robotics begins when your code directly controls torque, speed, and real-world inertia!
-
----
-
-### 🛠️ Technical Arsenal
-
-<div align="center">
-
-#### 🤖 Robotics & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Motor Controls](https://img.shields.io/badge/PWM%20%7C%20H--Bridge-333333?style=for-the-badge&logo=circuitverse&logoColor=00D2FF)
-
-#### 👁️ Computer Vision & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-
-#### 🌐 Web, Telemetry & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
+- 🌐 **Interactive Portfolio**: Explore my live engineering systems, stationary RoboGuide AI companion, and hardware architectures at **[dhigveerrajug.github.io/Vishwakarma](https://dhigveerrajug.github.io/Vishwakarma/)**.
+- 🛡️ **Autonomous Inspection**: Engineered **Conveyor Sentinel AI** combining edge **YOLOv8** at 42+ FPS with adaptive OpenCV contour tracking and active hardware relay shutoff (<22ms).
+- ⚙️ **Embedded Motor Firmware**: C++ firmware on Arduino and TETRIX PRIZM with custom mathematical **PWM soft-start acceleration ramping** to eliminate inrush surges and belt slippage.
+- 🏆 **Hackathon Leadership**: Innovator & developer for **Smart India Hackathon (SIH '26)** building high-reliability incident operations infrastructure.
+- 📍 **Location**: India 🇮🇳 (Open to on-site and remote opportunities).
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🛡️ Flagship Engineering Projects
 
 <table>
   <tr>
@@ -59,58 +37,96 @@ I am a **Robotics and Artificial Intelligence** student passionate about bridgin
       <h3>🛡️ Conveyor Sentinel AI</h3>
       <p><b>Autonomous Industrial Conveyor Belt Inspection System</b></p>
       <ul>
-        <li>Real-time surface anomaly detection (punctures, longitudinal tears, cracks, and foreign debris).</li>
-        <li>Hybrid AI architecture: lightweight <b>YOLOv8</b> object detector + fallback adaptive <b>OpenCV</b> optical contour analysis.</li>
-        <li>Integrated live telemetry HUD, real-time bounding reticles, and a 5-point machine health safety checklist.</li>
+        <li>Real-time edge computer vision classifying tears, punctures, and anomalies at <b>42+ FPS</b>.</li>
+        <li>Hybrid vision: lightweight <b>YOLOv8</b> + adaptive <b>OpenCV</b> morphological contour tracker.</li>
+        <li>Automated 5-point safety routine triggering industrial relay cutoff in <b>&lt;22ms</b>.</li>
       </ul>
       <p>
         <a href="https://github.com/DhigveerrajuG/Autonomous-Industrial-Conveyor-Belt-Inspection-System">
-          <img src="https://img.shields.io/badge/View_Repository-00D2FF?style=flat-square&logo=github&logoColor=black" alt="Conveyor Sentinel" />
+          <img src="https://img.shields.io/badge/View_Repository-2563eb?style=flat-square&logo=github&logoColor=white" alt="Conveyor Sentinel" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Synchronized Dual-Motor Actuation</h3>
-      <p><b>Hardware Firmware & Motion Profiles</b></p>
+      <h3>⚙️ Vishwakarma Engineering Portfolio</h3>
+      <p><b>Interactive Cyber-Physical Portfolio & Connected Dual-Backend</b></p>
       <ul>
-        <li>Synchronized dual DC motor drive with direction synchronization for physical conveyor rollers.</li>
-        <li>Custom <b>PWM soft-start acceleration ramping</b> algorithm to eliminate belt slippage and motor back-EMF spikes.</li>
-        <li>Tested with microcontrollers, H-bridge motor drivers (L298N), and optical speed feedback.</li>
+        <li>Stationary <b>RoboGuide</b> AI drone companion with speech synthesis & 30s automated tour.</li>
+        <li>Dual-ready backend: <b>Java 26 Virtual Threads</b> HTTP server + <b>Node.js</b> REST API.</li>
+        <li>Protected printable resume gate with SHA-256 passcode authorization & owner portal.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Hardware-Arduino_%7C_C%2B%2B_%7C_PWM-blue?style=flat-square" alt="Hardware" />
+        <a href="https://dhigveerrajug.github.io/Vishwakarma/">
+          <img src="https://img.shields.io/badge/Launch_Live_Site-10b981?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Site" />
+        </a>
+        <a href="https://github.com/DhigveerrajuG/Vishwakarma">
+          <img src="https://img.shields.io/badge/Repository-2563eb?style=flat-square&logo=github&logoColor=white" alt="Vishwakarma Repo" />
+        </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>⚡ Synchronized Dual-Motor Actuation</h3>
+      <p><b>Hardware Firmware & Motion Profiles</b></p>
+      <ul>
+        <li>Embedded C++ firmware executing mathematical PWM acceleration ramping for dual DC motors.</li>
+        <li>Eliminates mechanical inertia slip and dampens inrush current through L298N H-Bridge drivers.</li>
+        <li>Integrated optical tachometer monitoring real-time RPM under variable mechanical loads.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Embedded-Arduino_%7C_C%2B%2B_%7C_PWM-blue?style=flat-square" alt="Embedded Firmware" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🏆 SIH Real-Time Support Portal</h3>
       <p><b>Smart India Hackathon (SIH '26) Operations Engine</b></p>
       <ul>
-        <li>Production on-ground incident & grievance reporting portal for hackathon organizers and teams.</li>
-        <li>Instant 0ms boot SWR caching, lock-safe transactional writes, dynamic digital ticket passes, and live venue telemetry.</li>
+        <li>On-ground incident and grievance reporting portal for hackathon organizers and teams.</li>
+        <li>Instant 0ms boot SWR caching, lock-safe transactional writes, and digital ticket passes.</li>
         <li>Engineered with modular web UI and scalable Google Apps Script endpoints.</li>
       </ul>
       <p>
         <a href="https://github.com/DhigveerrajuG/GBlr26sIh">
-          <img src="https://img.shields.io/badge/View_Repository-00D2FF?style=flat-square&logo=github&logoColor=black" alt="SIH Support Desk" />
+          <img src="https://img.shields.io/badge/View_Repository-2563eb?style=flat-square&logo=github&logoColor=white" alt="SIH Support Desk" />
         </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Robotics Kinematics & Actuation Lab</h3>
-      <p><b>Robotic Drives, Controllers & Transmission</b></p>
-      <ul>
-        <li>Firmware experiments using the <b>TETRIX PRIZM</b> robotics controller and multi-axis DC motor encoders.</li>
-        <li>Mechanical drive ratio calculations, torque/RPM matching, and robotic powertrain sizing.</li>
-        <li>PlatformIO and Arduino IDE firmware development for robotics competition systems.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Robotics-TETRIX_PRIZM_%7C_Firmware-green?style=flat-square" alt="Robotics" />
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+#### 🤖 Robotics & Embedded Systems
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino_UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![TETRIX PRIZM](https://img.shields.io/badge/TETRIX_PRIZM-Robotics-orange?style=for-the-badge)
+![PWM Actuation](https://img.shields.io/badge/PWM_Actuation-L298N-333333?style=for-the-badge)
+![Optical Encoders](https://img.shields.io/badge/Optical_Encoders-Closed--Loop-blueviolet?style=for-the-badge)
+
+#### 👁️ Computer Vision & Edge AI
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Edge TPU](https://img.shields.io/badge/Edge_TPU-TensorRT-green?style=for-the-badge)
+
+#### 💻 Software, Telemetry & Cloud
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES2022-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java 26](https://img.shields.io/badge/Java_26-Virtual_Threads-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Web Audio API](https://img.shields.io/badge/Web_Audio-Speech_API-indigo?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
@@ -120,15 +136,15 @@ I am a **Robotics and Artificial Intelligence** student passionate about bridgin
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.shion.dev/api?username=DhigveerrajuG&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D2FF&icon_color=00D2FF" height="175" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=DhigveerrajuG&show_icons=true&theme=tokyonight&hide_border=true&title_color=2563EB&icon_color=2563EB" height="175" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=DhigveerrajuG&theme=tokyonight&hide_border=true&ring=00D2FF&fire=00D2FF&currStreakNum=00D2FF" height="175" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=DhigveerrajuG&theme=tokyonight&hide_border=true&ring=2563EB&fire=2563EB&currStreakNum=2563EB" height="175" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DhigveerrajuG&theme=tokyonight&hide_border=true&layout=compact&title_color=00D2FF" height="140" alt="Top Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DhigveerrajuG&theme=tokyonight&hide_border=true&layout=compact&title_color=2563EB" height="140" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -136,16 +152,15 @@ I am a **Robotics and Artificial Intelligence** student passionate about bridgin
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+### 📬 Connect & Official Resume
 
-I am always eager to collaborate on **robotics research, computer vision projects, autonomous systems, and embedded hardware innovations**.
-
-- 💼 **LinkedIn**: [linkedin.com/in/dhigveerraju-g-69737036b](https://in.linkedin.com/in/dhigveerraju-g-69737036b)
+- 🌐 **Live Portfolio**: [dhigveerrajug.github.io/Vishwakarma](https://dhigveerrajug.github.io/Vishwakarma/)
+- 💼 **LinkedIn**: [Dhigveerraju G](https://in.linkedin.com/in/dhigveerraju-g-69737036b)
 - 🐙 **GitHub**: [@DhigveerrajuG](https://github.com/DhigveerrajuG)
-- 📍 **Location**: India
+- 📄 **Official Resume Access**: To protect proprietary firmware and engineering IP, official printable CV downloads are authorized through the portfolio access portal.
 
 <br/>
 
 <div align="center">
-  <sub>Designed with passion for Robotics & Artificial Intelligence 🤖 • © 2026 Dhigveerraju G</sub>
+  <sub>Engineered for Physical Intelligence & Autonomous Robotics 🤖 • © 2026 Dhigveerraju G</sub>
 </div>
