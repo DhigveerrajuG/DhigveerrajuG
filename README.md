@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/DhigveerrajuG/DhigveerrajuG/main/assets/hero-banner.svg" alt="Dhigveerraju G - Robotics &amp; AI Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/DhigveerrajuG/DhigveerrajuG/main/assets/banner.svg" alt="Dhigveerraju G - Robotics &amp; AI Engineer" width="100%" />
 
   <br/>
 
