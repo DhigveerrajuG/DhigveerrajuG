@@ -8,6 +8,7 @@
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Vishwakarma-2563eb?style=flat-square&logo=google-chrome&logoColor=white)](https://dhigveerrajug.github.io/Vishwakarma/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhigveerraju%20G-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dhigveerraju-g-69737036b)
 [![GitHub](https://img.shields.io/badge/GitHub-DhigveerrajuG-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DhigveerrajuG)
+[![Profile Views](https://komarev.com/ghpvc/?username=DhigveerrajuG&style=flat-square&color=2563eb&label=Profile+Views)](https://github.com/DhigveerrajuG)
 [![Email](https://img.shields.io/badge/Email-dhigveerraju%40gmail.com-10b981?style=flat-square&logo=gmail&logoColor=white)](mailto:dhigveerraju@gmail.com)
 
 </div>
@@ -53,6 +54,23 @@ I am a Robotics &amp; Artificial Intelligence student based in India 🇮🇳. M
 - **ROS / ROS2** (Robot Operating System) node architecture and communication.
 - Closed-loop **PID tuning** for precision positioning.
 - Model optimization and deployment on **NVIDIA Jetson** using TensorRT.
+
+---
+
+### 📊 GitHub Activity &amp; Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhigveerrajuG&theme=github_dark" alt="DhigveerrajuG GitHub Profile Details" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhigveerrajuG&theme=github_dark" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhigveerrajuG&theme=github_dark" alt="Top Languages by Commit" width="49%" />
+</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=DhigveerrajuG&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak Stats" />
+</div>
 
 ---
 
