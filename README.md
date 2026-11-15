@@ -1,63 +1,117 @@
 <div align="center">
 
-# Dhigveerraju G
+  <img src="https://raw.githubusercontent.com/DhigveerrajuG/DhigveerrajuG/main/assets/hero-banner.svg" alt="Dhigveerraju G - Robotics &amp; AI Engineer" width="100%" />
 
-**Undergraduate Student in Robotics &amp; Artificial Intelligence**  
-*Building physical prototypes at the intersection of embedded firmware, motor actuation, and edge computer vision.*
+  <br/>
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Vishwakarma-2563eb?style=flat-square&logo=google-chrome&logoColor=white)](https://dhigveerrajug.github.io/Vishwakarma/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhigveerraju%20G-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dhigveerraju-g-69737036b)
-[![GitHub](https://img.shields.io/badge/GitHub-DhigveerrajuG-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DhigveerrajuG)
-[![Profile Views](https://komarev.com/ghpvc/?username=DhigveerrajuG&style=flat-square&color=2563eb&label=Profile+Views)](https://github.com/DhigveerrajuG)
-[![Email](https://img.shields.io/badge/Email-dhigveerraju%40gmail.com-10b981?style=flat-square&logo=gmail&logoColor=white)](mailto:dhigveerraju@gmail.com)
+  <a href="https://dhigveerrajug.github.io/Vishwakarma/"><img src="https://img.shields.io/badge/⚡_Live_Portfolio-Vishwakarma-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" /></a>
+  &nbsp;
+  <a href="https://in.linkedin.com/in/dhigveerraju-g-69737036b"><img src="https://img.shields.io/badge/LinkedIn-Dhigveerraju_G-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/DhigveerrajuG"><img src="https://img.shields.io/badge/GitHub-DhigveerrajuG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="mailto:dhigveerraju@gmail.com"><img src="https://img.shields.io/badge/Email-dhigveerraju%40gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/DhigveerrajuG"><img src="https://komarev.com/ghpvc/?username=DhigveerrajuG&style=for-the-badge&color=2563eb&label=Profile+Views" alt="Profile Views" /></a>
 
 </div>
+
+<br/>
+
+```yaml
+╭────────────────────────────────────────────────────────────────────────────╮
+│                          SYSTEM TELEMETRY // HUD                           │
+├────────────────────────────────────────────────────────────────────────────┤
+│  OPERATOR     : Dhigveerraju G [Student Engineer & Prototyper]             │
+│  DISCIPLINE   : Robotics & Artificial Intelligence                         │
+│  LOCATION     : India 🇮🇳                                                   │
+│  STATUS       : [● ACTIVE] Developing Autonomous Prototypes & SIH '26      │
+│  PIPELINE     : Camera Feed ➔ YOLOv8 (42 FPS) ➔ C++ PWM Firmware ➔ Motors  │
+│  MISSION      : Industrial Safety Autonomy • Embedded Hardware • Edge AI   │
+╰────────────────────────────────────────────────────────────────────────────╯
+```
 
 ---
 
 ### 📌 About Me
 
-I am a Robotics &amp; Artificial Intelligence student based in India 🇮🇳. My focus is **learning through hands-on prototyping**—translating algorithms into physical hardware through microcontroller firmware, real-time computer vision, and closed-loop motor actuation.
+I am a **Robotics &amp; Artificial Intelligence** student based in India. My passion is **building physical prototypes**—bridging the gap between software algorithms and physical hardware through microcontroller firmware, real-time computer vision, and closed-loop actuation.
 
-- 🔬 **Core Interests**: Embedded Systems (C/C++, Arduino), Computer Vision (YOLOv8, OpenCV), and Industrial Automation.
-- 🌐 **Interactive Portfolio**: Explore my live project architectures and companion drone at **[dhigveerrajug.github.io/Vishwakarma](https://dhigveerrajug.github.io/Vishwakarma/)**.
-- 🏆 **Hackathons**: Innovator &amp; developer for **Smart India Hackathon (SIH '26)**, building rapid operational infrastructure.
-- 🎯 **Looking For**: Student internships, summer research roles, and mentorship from practicing robotics engineers.
-
----
-
-### 🛠️ Featured Projects
-
-| Project | Description | Core Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| **Conveyor Sentinel AI** | Real-time industrial belt inspection pipeline detecting longitudinal tears and punctures at 42+ FPS with &lt;22ms safety relay cutoff. | `Python` • `YOLOv8` • `OpenCV` | [View Code →](https://github.com/DhigveerrajuG/Autonomous-Industrial-Conveyor-Belt-Inspection-System) |
-| **Synchronized Dual-Motor Actuation** | Arduino C++ firmware utilizing Timer1 31.37 kHz phase-correct PWM and mathematical soft-start ramping to eliminate belt slip and cut inrush spikes by 56%. | `C++` • `Arduino` • `PWM` • `L298N` | [Embedded Code →](https://github.com/DhigveerrajuG/Vishwakarma) |
-| **SIH '26 Operations Engine** | Real-time incident and grievance reporting desk with digital ticket generation and optimistic local caching for hackathon logistics. | `Web UI` • `Google Apps Script` | [View Code →](https://github.com/DhigveerrajuG/GBlr26sIh) |
-| **Robotics Kinematics Lab** | Closed-loop shaft synchronization on TETRIX PRIZM with continuous quadrature optical encoder feedback within ±2 ticks. | `C++` • `TETRIX PRIZM` • `Encoders` | [Lab Specs →](https://github.com/DhigveerrajuG/Vishwakarma) |
+- 🔬 **What I Build**: Embedded control systems (C/C++, Arduino), real-time defect inspection (YOLOv8, OpenCV), and motorized rigs.
+- 🌐 **Interactive Portfolio**: Tour my full project blueprints and interactive companion drone at **[dhigveerrajug.github.io/Vishwakarma](https://dhigveerrajug.github.io/Vishwakarma/)**.
+- 🏆 **Hackathon Finalist**: Innovator &amp; backend builder for **Smart India Hackathon (SIH '26)**.
+- 🎯 **Looking For**: Student internships, research opportunities, and technical mentorship in robotics engineering.
 
 ---
 
-### ⚡ Technical Skills
+### 🛠️ Featured Engineering Prototypes
 
-| Category | Technologies &amp; Tools |
+#### 01 // Conveyor Sentinel AI
+*Automated optical inspection system for industrial conveyor belts with emergency fail-safe actuation.*
+```
+[1080p Optical Feed] ➔ [YOLOv8 Real-Time Inference @ 42+ FPS] ➔ [Tear/Puncture Classifier] ➔ [Opto-Relay E-Stop (<22ms)]
+```
+- **Capabilities**: Real-time identification of longitudinal tears, surface rips, and punctures on moving belts.
+- **Hardware Integration**: High-speed GPIO trigger cutting motor power through an opto-isolated relay in &lt;22ms.
+- **Stack**: `Python 3` • `Ultralytics YOLOv8` • `OpenCV` • `PyTorch` • `Industrial Relays`
+- **Link**: [Explore Repository →](https://github.com/DhigveerrajuG/Autonomous-Industrial-Conveyor-Belt-Inspection-System)
+
+#### 02 // Synchronized Dual-Motor Actuation System
+*Register-level Arduino C++ firmware utilizing Timer1 31.37 kHz phase-correct PWM and mathematical soft-start ramping.*
+```
+[Timer1 31.37 kHz Phase-Correct PWM] ➔ [S-Curve Soft-Start Ramp] ➔ [L298N Dual H-Bridge] ➔ [0% Belt Slip Synchronization]
+```
+- **Firmware Design**: Operates above human audible frequency (eliminates coil whine) and dampens inrush current spikes by 56%.
+- **Kinematic Stability**: Eliminates belt slip during initial conveyor acceleration.
+- **Stack**: `C++` • `Arduino UNO/Mega` • `Timer1 Registers` • `L298N Dual H-Bridge` • `DC Gearmotors`
+- **Link**: [Inspect Embedded Firmware →](https://github.com/DhigveerrajuG/Vishwakarma)
+
+#### 03 // SIH '26 Operations Engine
+*Real-time logistical operations desk and grievance reporting system engineered for Smart India Hackathon.*
+```
+[Responsive Web Portal] ➔ [Optimistic State Cache] ➔ [Google Apps Script Cloud API] ➔ [Dynamic Ticket Registry]
+```
+- **Architecture**: Digital ticketing desk with instant client feedback and robust cloud synchronization.
+- **Stack**: `JavaScript (ES2022)` • `REST APIs` • `Cloud Scripting` • `Semantic UI`
+- **Link**: [View Repository →](https://github.com/DhigveerrajuG/GBlr26sIh)
+
+#### 04 // Closed-Loop Kinematics Lab
+*Precision shaft synchronization on TETRIX PRIZM with continuous quadrature optical encoder feedback.*
+- **Closed-Loop Regulation**: Maintains dual-shaft synchronization within **±2 encoder ticks** under dynamic mechanical load.
+- **Stack**: `C++` • `TETRIX PRIZM` • `Quadrature Optical Encoders` • `Interrupt Routines`
+- **Link**: [Lab Documentation →](https://github.com/DhigveerrajuG/Vishwakarma)
+
+---
+
+### ⚡ Technical Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,opencv,linux,git,vscode&theme=dark" alt="Technical Arsenal" />
+</div>
+
+<br/>
+
+| Domain | Tools &amp; Technologies |
 | :--- | :--- |
-| **Embedded &amp; Microcontrollers** | Arduino UNO / Mega, TETRIX PRIZM, C, C++, PWM Timers, L298N Dual H-Bridge, Relays |
-| **Computer Vision &amp; AI** | Python 3, Ultralytics YOLOv8, OpenCV, Image Preprocessing, Contour Tracking |
-| **Sensors &amp; Actuators** | 12V DC Gearmotors, Quadrature Optical Encoders, Optical Tachometers |
-| **Software &amp; Web** | HTML5, CSS3, JavaScript (ES2022), Node.js (Basic REST APIs) |
-| **Tools &amp; Workflow** | Git, GitHub, VS Code, Arduino IDE, Linux Terminal Basics |
+| **Embedded &amp; Firmware** | C, C++, Arduino (UNO / Mega), TETRIX PRIZM, Register-Level PWM Timers, L298N H-Bridge |
+| **Computer Vision &amp; AI** | Python 3, Ultralytics YOLOv8, OpenCV, Image Filtering, Real-Time Inference |
+| **Sensors &amp; Actuation** | 12V DC Gearmotors, Optical Quadrature Encoders, Optical Tachometers, Relays |
+| **Software &amp; Web** | HTML5, CSS3, Modern JavaScript (ES2022), Node.js (REST APIs) |
+| **Development Workflow** | Git, GitHub, VS Code, Arduino IDE, Linux Terminal Environment |
 
 ---
 
-### 📚 Currently Learning
+### 📚 Currently Exploring &amp; Learning
 
-- **ROS / ROS2** (Robot Operating System) node architecture and communication.
-- Closed-loop **PID tuning** for precision positioning.
-- Model optimization and deployment on **NVIDIA Jetson** using TensorRT.
+```
+[ROS / ROS2] ────────────► Node graphs, publisher/subscriber architecture, and sensor transform trees.
+[PID Control] ───────────► Closed-loop velocity & precision positioning mathematical tuning.
+[Edge AI Deployment] ────► TensorRT optimization for NVIDIA Jetson hardware acceleration.
+```
 
 ---
 
-### 📊 GitHub Activity &amp; Stats
+### 📊 GitHub Activity &amp; Diagnostics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhigveerrajuG&theme=github_dark" alt="DhigveerrajuG GitHub Profile Details" width="100%" />
@@ -74,17 +128,17 @@ I am a Robotics &amp; Artificial Intelligence student based in India 🇮🇳. M
 
 ---
 
-### 📬 Get in Touch
+### 📬 Connect With Me
 
-I am always happy to connect with fellow students, engineers, and researchers.
+I am always keen to discuss robotics engineering, collaborate on open-source hardware, or explore student research projects.
 
-- 🌐 **Portfolio**: [dhigveerrajug.github.io/Vishwakarma](https://dhigveerrajug.github.io/Vishwakarma/)
+- 🌐 **Interactive Portfolio**: [dhigveerrajug.github.io/Vishwakarma](https://dhigveerrajug.github.io/Vishwakarma/)
 - 💼 **LinkedIn**: [linkedin.com/in/dhigveerraju-g-69737036b](https://in.linkedin.com/in/dhigveerraju-g-69737036b)
 - 🐙 **GitHub**: [@DhigveerrajuG](https://github.com/DhigveerrajuG)
-- 📧 **Email**: [dhigveerraju@gmail.com](mailto:dhigveerraju@gmail.com)
+- 📧 **Direct Email**: [dhigveerraju@gmail.com](mailto:dhigveerraju@gmail.com)
 
 <br/>
 
 <div align="center">
-  <sub>© 2026 Dhigveerraju G • Robotics &amp; Artificial Intelligence</sub>
+  <sub>⚡ Designed with precision by <strong>Dhigveerraju G</strong> • Robotics &amp; AI Engineer ⚡</sub>
 </div>
