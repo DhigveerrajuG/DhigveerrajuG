@@ -18,14 +18,14 @@
 
 ```yaml
 ╭────────────────────────────────────────────────────────────────────────────╮
-│                          SYSTEM TELEMETRY // HUD                           │
+│                          LEARNING STATS // HUD                             │
 ├────────────────────────────────────────────────────────────────────────────┤
-│  OPERATOR     : Dhigveerraju G [Student Engineer & Prototyper]             │
-│  DISCIPLINE   : Robotics & Artificial Intelligence                         │
-│  LOCATION     : India 🇮🇳                                                   │
-│  STATUS       : [● ACTIVE] Developing Autonomous Prototypes & SIH '26      │
-│  PIPELINE     : Camera Feed ➔ YOLOv8 (42 FPS) ➔ C++ PWM Firmware ➔ Motors  │
-│  MISSION      : Industrial Safety Autonomy • Embedded Hardware • Edge AI   │
+│  SPECIALIZATION : Robotics & Artificial Intelligence (Undergraduate)       │
+│  ROS / ROS2     : Node Graph Communication, URDF Models & Topics [Active]  │
+│  PID TUNING     : Closed-Loop Mathematical Velocity & Precision Control    │
+│  EDGE AI DEPLOY : TensorRT Optimization for NVIDIA Jetson Embedded GPUs    │
+│  EMBEDDED HW    : Bare-Metal PWM Timers & Quadrature Encoder Feedback      │
+│  CURRENT STATUS : Prototyping Autonomous Systems • SIH '26 Hackathon       │
 ╰────────────────────────────────────────────────────────────────────────────╯
 ```
 
@@ -96,16 +96,6 @@ I am a **Robotics &amp; Artificial Intelligence** student based in India. My pas
 | **Sensors &amp; Actuation** | 12V DC Gearmotors, Optical Quadrature Encoders, Optical Tachometers, Relays |
 | **Software &amp; Web** | HTML5, CSS3, Modern JavaScript (ES2022), Node.js (REST APIs) |
 | **Development Workflow** | Git, GitHub, VS Code, Arduino IDE, Linux Terminal Environment |
-
----
-
-### 📚 Currently Exploring &amp; Learning
-
-```
-[ROS / ROS2] ────────────► Node graphs, publisher/subscriber architecture, and sensor transform trees.
-[PID Control] ───────────► Closed-loop velocity & precision positioning mathematical tuning.
-[Edge AI Deployment] ────► TensorRT optimization for NVIDIA Jetson hardware acceleration.
-```
 
 ---
 

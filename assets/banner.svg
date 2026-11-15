@@ -113,7 +113,7 @@
   <text x="256" y="163" fill="#e2e8f0" font-size="11.5" font-weight="500" class="label-mono">deploy --pipeline="vision_actuation"<tspan fill="#38bdf8" class="cursor"> _</tspan></text>
 
   <!-- ======================================================== -->
-  <!-- RIGHT SIDE: HIGH-TECH HARDWARE TELEMETRY MODULE          -->
+  <!-- RIGHT SIDE: LEARNING STATS HUD MODULE                    -->
   <!-- ======================================================== -->
   <g transform="translate(605, 30)">
     <!-- Outer Telemetry HUD Box -->
@@ -122,48 +122,48 @@
     <!-- Top Header Bar -->
     <path d="M 0 8 Q 0 0 8 0 L 207 0 Q 215 0 215 8 L 215 26 L 0 26 Z" fill="#0f172a" stroke="#334155" stroke-width="0.8" />
     <circle cx="14" cy="13" r="3" fill="#38bdf8" class="bus-led" />
-    <text x="24" y="17" fill="#38bdf8" font-size="9.5" font-weight="700" letter-spacing="0.8" class="label-mono">HARDWARE TELEMETRY</text>
+    <text x="24" y="17" fill="#38bdf8" font-size="9.5" font-weight="700" letter-spacing="0.8" class="label-mono">LEARNING STATS</text>
 
-    <!-- Live Telemetry Rows -->
-    <!-- Row 1: PWM -->
+    <!-- Learning Stats Rows -->
+    <!-- Row 1: ROS2 -->
     <g transform="translate(14, 46)">
-      <text x="0" y="0" fill="#64748b" font-size="9" font-weight="600" class="label-mono">CORE_PWM</text>
-      <text x="80" y="0" fill="#f8fafc" font-size="9" font-weight="700" class="label-mono">31.37 kHz</text>
-      <circle cx="178" cy="-3" r="2.5" fill="#10b981" />
+      <text x="0" y="0" fill="#64748b" font-size="9" font-weight="600" class="label-mono">ROS / ROS2</text>
+      <text x="80" y="0" fill="#f8fafc" font-size="9" font-weight="700" class="label-mono">Nodes &amp; Pub/Sub</text>
+      <circle cx="178" cy="-3" r="2.5" fill="#38bdf8" />
     </g>
 
     <!-- Divider Line -->
     <line x1="14" y1="55" x2="201" y2="55" stroke="#1e293b" stroke-width="0.8" />
 
-    <!-- Row 2: VISION FPS -->
+    <!-- Row 2: PID CONTROL -->
     <g transform="translate(14, 71)">
-      <text x="0" y="0" fill="#64748b" font-size="9" font-weight="600" class="label-mono">INFERENCE</text>
-      <text x="80" y="0" fill="#38bdf8" font-size="9" font-weight="700" class="label-mono">42+ FPS [YOLO]</text>
-      <circle cx="178" cy="-3" r="2.5" fill="#38bdf8" />
+      <text x="0" y="0" fill="#64748b" font-size="9" font-weight="600" class="label-mono">PID CONTROL</text>
+      <text x="80" y="0" fill="#10b981" font-size="9" font-weight="700" class="label-mono">Velocity Tuning</text>
+      <circle cx="178" cy="-3" r="2.5" fill="#10b981" />
     </g>
 
     <!-- Divider Line -->
     <line x1="14" y1="80" x2="201" y2="80" stroke="#1e293b" stroke-width="0.8" />
 
-    <!-- Row 3: RELAY E-STOP -->
+    <!-- Row 3: EDGE AI -->
     <g transform="translate(14, 96)">
-      <text x="0" y="0" fill="#64748b" font-size="9" font-weight="600" class="label-mono">SAFETY_CUT</text>
-      <text x="80" y="0" fill="#10b981" font-size="9" font-weight="700" class="label-mono">&lt;22ms RELAY</text>
-      <circle cx="178" cy="-3" r="2.5" fill="#10b981" />
+      <text x="0" y="0" fill="#64748b" font-size="9" font-weight="600" class="label-mono">EDGE AI</text>
+      <text x="80" y="0" fill="#38bdf8" font-size="9" font-weight="700" class="label-mono">TensorRT/Jetson</text>
+      <circle cx="178" cy="-3" r="2.5" fill="#38bdf8" />
     </g>
 
     <!-- Divider Line -->
     <line x1="14" y1="105" x2="201" y2="105" stroke="#1e293b" stroke-width="0.8" />
 
-    <!-- Row 4: ENCODER SYNC -->
+    <!-- Row 4: FIRMWARE -->
     <g transform="translate(14, 121)">
-      <text x="0" y="0" fill="#64748b" font-size="9" font-weight="600" class="label-mono">KINEMATICS</text>
-      <text x="80" y="0" fill="#f59e0b" font-size="9" font-weight="700" class="label-mono">&#177;2 TICK SYNC</text>
+      <text x="0" y="0" fill="#64748b" font-size="9" font-weight="600" class="label-mono">FIRMWARE</text>
+      <text x="80" y="0" fill="#f59e0b" font-size="9" font-weight="700" class="label-mono">Bare-Metal C++</text>
       <circle cx="178" cy="-3" r="2.5" fill="#f59e0b" />
     </g>
 
     <!-- Bottom Status Strip -->
     <rect x="0" y="132" width="215" height="12" rx="0" fill="#020617" opacity="0.6" />
-    <text x="107" y="141" text-anchor="middle" fill="#475569" font-size="8" class="label-mono">SUBSYSTEMS: SYNCHRONIZED</text>
+    <text x="107" y="141" text-anchor="middle" fill="#475569" font-size="8" class="label-mono">LEARNING ROADMAP: ACTIVE</text>
   </g>
 </svg>
