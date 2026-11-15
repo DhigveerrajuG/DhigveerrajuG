@@ -10,8 +10,6 @@
   &nbsp;
   <a href="https://github.com/DhigveerrajuG"><img src="https://img.shields.io/badge/GitHub-DhigveerrajuG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
-  <a href="mailto:dhigveerraju@gmail.com"><img src="https://img.shields.io/badge/Email-dhigveerraju%40gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
   <a href="https://github.com/DhigveerrajuG"><img src="https://komarev.com/ghpvc/?username=DhigveerrajuG&style=for-the-badge&color=2563eb&label=Profile+Views" alt="Profile Views" /></a>
 
 </div>
@@ -135,7 +133,6 @@ I am always keen to discuss robotics engineering, collaborate on open-source har
 - 🌐 **Interactive Portfolio**: [dhigveerrajug.github.io/Vishwakarma](https://dhigveerrajug.github.io/Vishwakarma/)
 - 💼 **LinkedIn**: [linkedin.com/in/dhigveerraju-g-69737036b](https://in.linkedin.com/in/dhigveerraju-g-69737036b)
 - 🐙 **GitHub**: [@DhigveerrajuG](https://github.com/DhigveerrajuG)
-- 📧 **Direct Email**: [dhigveerraju@gmail.com](mailto:dhigveerraju@gmail.com)
 
 <br/>
 
