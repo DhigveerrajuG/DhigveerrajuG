@@ -8,8 +8,6 @@
   &nbsp;
   <a href="https://in.linkedin.com/in/dhigveerraju-g-69737036b"><img src="https://img.shields.io/badge/LinkedIn-Dhigveerraju_G-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://github.com/DhigveerrajuG"><img src="https://img.shields.io/badge/GitHub-DhigveerrajuG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
   <a href="https://github.com/DhigveerrajuG"><img src="https://komarev.com/ghpvc/?username=DhigveerrajuG&style=for-the-badge&color=2563eb&label=Profile+Views" alt="Profile Views" /></a>
 
 </div>
