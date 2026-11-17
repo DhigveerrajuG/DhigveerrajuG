@@ -68,16 +68,16 @@ I am an undergraduate student specializing in **Robotics &amp; Artificial Intell
 ### 📊 GitHub Activity &amp; Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhigveerrajuG&theme=github_dark" alt="DhigveerrajuG GitHub Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhigveerrajuG&theme=github_dark&cache_bust=20261117" alt="DhigveerrajuG GitHub Profile Details" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhigveerrajuG&theme=github_dark" alt="GitHub Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhigveerrajuG&theme=github_dark" alt="Top Languages by Commit" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhigveerrajuG&theme=github_dark&cache_bust=20261117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhigveerrajuG&theme=github_dark&cache_bust=20261117" alt="Top Languages by Commit" width="49%" />
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DhigveerrajuG&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&count_private=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=DhigveerrajuG&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&count_private=true&cache_bust=20261117" alt="GitHub Streak Stats" />
 </div>
 
 ---
