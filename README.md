@@ -16,12 +16,13 @@
 
 ### 📌 About Me
 
-I am an undergraduate student studying **Robotics &amp; Artificial Intelligence** in India. I focus on **hands-on hardware prototyping**—bringing together embedded microcontroller firmware, real-time computer vision, and closed-loop motor actuation.
+I am an undergraduate student specializing in **Robotics &amp; Artificial Intelligence** in India. I focus on **hands-on hardware prototyping**—bringing together embedded microcontroller firmware, real-time computer vision, and closed-loop motor actuation.
 
-- 🔬 **Focus Areas**: Embedded Systems (C/C++, Arduino), Computer Vision (YOLOv8, OpenCV), and Industrial Automation.
+- 🔬 **Focus Areas**: Autonomous Surface Vessels (ASV), Embedded Systems (C/C++, Arduino), Computer Vision (OpenCV, YOLOv8), and Industrial Automation.
+- 🌊 **Latest Innovation**: Engineered **Aqua-Sentry**, a WasteShark-inspired catamaran aquatic robot with passive hydrodynamic flow-through debris collection and laptop vision telemetry.
 - 🌐 **Interactive Portfolio**: View my 3D system blueprints and companion drone at **[dhigveerrajug.github.io/Vishwakarma](https://dhigveerrajug.github.io/Vishwakarma/)**.
 - 🏆 **Hackathons**: Innovator &amp; developer for **Smart India Hackathon (SIH '26)**.
-- 🎯 **Open To**: Student internships, research projects, and robotics engineering mentorship.
+- 🎯 **Open To**: Robotics engineering internships, embedded systems research, and autonomous systems mentorship.
 
 ---
 
@@ -29,6 +30,7 @@ I am an undergraduate student studying **Robotics &amp; Artificial Intelligence*
 
 | Project | Description | Core Stack | Links |
 | :--- | :--- | :--- | :---: |
+| **Aqua-Sentry (Autonomous ASV)** | WasteShark-inspired catamaran floating waste collector prototype using passive hydrodynamic flow-through mesh capture, OpenCV webcam debris tracking with live HSV calibration trackbars, differential thruster control, and non-blocking ultrasonic avoidance. | `C++` • `Arduino` • `Python` • `OpenCV` • `Differential Thrust` | [Repository →](https://github.com/DhigveerrajuG/Aqua-Sentry) |
 | **Conveyor Sentinel AI** | Real-time industrial belt inspection pipeline detecting longitudinal tears and punctures at 42+ FPS with an opto-isolated safety relay cutoff (&lt;22ms). | `Python` • `YOLOv8` • `OpenCV` • `PyTorch` | [Repository →](https://github.com/DhigveerrajuG/Autonomous-Industrial-Conveyor-Belt-Inspection-System) |
 | **Synchronized Dual-Motor Actuation** | Arduino C++ firmware utilizing Timer1 31.37 kHz phase-correct PWM and soft-start ramping to eliminate belt slip and reduce inrush current spikes by 56%. | `C++` • `Arduino` • `PWM Timers` • `L298N` | [Embedded Code →](https://github.com/DhigveerrajuG/Vishwakarma) |
 | **SIH '26 Operations Engine** | Real-time logistical incident desk and grievance reporting platform engineered with optimistic state caching for Smart India Hackathon operations. | `JavaScript (ES2022)` • `REST APIs` • `Cloud API` | [Repository →](https://github.com/DhigveerrajuG/GBlr26sIh) |
@@ -46,9 +48,10 @@ I am an undergraduate student studying **Robotics &amp; Artificial Intelligence*
 
 | Category | Technologies &amp; Tools |
 | :--- | :--- |
-| **Embedded &amp; Firmware** | C, C++, Arduino (UNO / Mega), TETRIX PRIZM, Register-Level PWM Timers, L298N Dual H-Bridge |
-| **Computer Vision &amp; AI** | Python 3, Ultralytics YOLOv8, OpenCV, Image Preprocessing, Defect Contour Tracking |
-| **Sensors &amp; Actuators** | 12V DC Gearmotors, Quadrature Optical Encoders, Optical Tachometers, Relays |
+| **Robotics &amp; Autonomous Systems** | Autonomous Surface Vessels (ASVs), Differential Steering Kinematics, Hydrodynamic Passive Ingestion |
+| **Embedded &amp; Firmware** | C, C++, Arduino (Uno / Nano / Mega), TETRIX PRIZM, Register-Level PWM Timers, L298N &amp; BTS7960 Drivers |
+| **Computer Vision &amp; AI** | Python 3, OpenCV, Adaptive HSV Segmentation, Real-Time Calibration, Ultralytics YOLOv8, PyTorch |
+| **Sensors &amp; Actuators** | Waterproof Ultrasonic (JSN-SR04T), DC Thrusters, Quadrature Optical Encoders, Relays, LiPo Voltage Dividers |
 | **Software &amp; Web** | HTML5, CSS3, Modern JavaScript (ES2022), Node.js (Basic REST APIs) |
 | **Tools &amp; Workflow** | Git, GitHub, VS Code, Arduino IDE, Linux Terminal Basics |
 
@@ -57,7 +60,7 @@ I am an undergraduate student studying **Robotics &amp; Artificial Intelligence*
 ### 📚 Currently Learning
 
 - **ROS / ROS2** node graph architecture, publisher/subscriber communication, and coordinate transforms.
-- Closed-loop **PID tuning** for precision velocity and position control.
+- Closed-loop **PID tuning** for precision velocity and position control in aquatic surface vessels.
 - Edge AI deployment and acceleration on **NVIDIA Jetson** hardware using TensorRT.
 
 ---
@@ -74,7 +77,7 @@ I am an undergraduate student studying **Robotics &amp; Artificial Intelligence*
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DhigveerrajuG&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=DhigveerrajuG&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&count_private=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
